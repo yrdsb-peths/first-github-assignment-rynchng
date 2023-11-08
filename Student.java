@@ -17,4 +17,9 @@ public class Student{
   {
     return favAnimal;
   }
+
+  public String toString()
+  {
+    return firstName + "'s favourite animal is " + favouriteAnimal;
+  }
 }
