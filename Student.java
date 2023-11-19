@@ -2,6 +2,7 @@ public class Student{
   public String firstName;
   public String favAnimal;
 
+// Constructor for the Student class
   public Student(String name, String animal)
   {
     firstName = name;
