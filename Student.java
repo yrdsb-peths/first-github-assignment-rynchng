@@ -9,6 +9,7 @@ public class Student{
     favAnimal = animal;
   }
 
+// Gets the first name of the student
   public String getName()
   {
     return firstName;
