@@ -20,6 +20,6 @@ public class Student{
 
   public String toString()
   {
-    return firstName + "'s favourite animal is " + favouriteAnimal;
+    return firstName + "'s favourite animal is " + favAnimal;
   }
 }
